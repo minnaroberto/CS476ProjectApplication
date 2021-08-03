@@ -5,4 +5,4 @@
 2. open a new cmd window. 
    Use "CD" to change the location to the unzipped location
 
-3. type npm run dev    Using a browser, type in the address "localhost: 3000"
+3. type "npm run dev"    Using a browser, type in the address "localhost: 3000"
